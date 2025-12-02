@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "[From. PLAVE] 예준 - 가끔 연락하던 애 (원곡 : 결)",
+  "base_artist": "PLAVE",
+  "createdAt": "2025-12-02T03:20:00.096263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BB's Theme (from Death Stranding)",
+      "artist": "Ludvig Forssell feat. Jenny Plant",
+      "has_synced": true,
+      "path": "select/01_BB's_Theme_(from_Death_Stranding)_Ludvig_Forssell_feat._Jenny_Plant.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enemy (From the series \"Arcane League of Legends\")",
+      "artist": "Imagine Dragons feat. JID, Arcane & League of Legends",
+      "has_synced": true,
+      "path": "select/02_Enemy_(From_the_series__Arcane_League_of_Legends_)_Imagine_Dragons_feat._JID,_Arcane_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enemy (from the series Arcane League of Legends)",
+      "artist": "Imagine Dragons, JID & League of Legends",
+      "has_synced": true,
+      "path": "select/03_Enemy_(from_the_series_Arcane_League_of_Legends)_Imagine_Dragons,_JID_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/04_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/05_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Toss a Coin to Your Witcher (From \"the Witcher Series\")",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/06_Toss_a_Coin_to_Your_Witcher_(From__the_Witcher_Series_)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We All Lift Together (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/07_We_All_Lift_Together_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Champagne Night - From Songland",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/08_Champagne_Night_-_From_Songland_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Champagne Night (From Songland)",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/09_Champagne_Night_(From_Songland)_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hearts On Fire (From \"Rocky IV\")",
+      "artist": "John Cafferty",
+      "has_synced": true,
+      "path": "select/10_Hearts_On_Fire_(From__Rocky_IV_)_John_Cafferty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/13_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "artist": "SZA feat. Justin Timberlake & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/14_The_Other_Side_(From__Trolls_World_Tour_)_[Oliver_Heldens_Remix]_SZA_feat._Justin_Timberlake_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/15_Vegas_(From_the_Original_Motion_Picture_Soundtrack_ELVIS)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Velvet Red - Never Will: Live From A Distance",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/16_Velvet_Red_-_Never_Will__Live_From_A_Distance_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Velvet Red (Never Will: Live From A Distance)",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/17_Velvet_Red_(Never_Will__Live_From_A_Distance)_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift feat. Maren Morris",
+      "has_synced": true,
+      "path": "select/18_You_All_Over_Me_(feat._Maren_Morris)_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift_feat._Maren_Morris.lrc"
+    }
+  ]
+}
